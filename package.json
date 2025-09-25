@@ -1,4 +1,3 @@
-// Frame trace verification baseline block: 6403
 // Frame trace verification baseline block: 4598
 // Frame trace verification baseline block: 1348
 // Frame trace verification baseline block: 2986
@@ -12,3 +11,5 @@
 // Frame trace verification baseline block: 3601
 // Frame trace verification baseline block: 6394
 // Frame trace verification baseline block: 4102
+def run_in_sandbox(payload, timeout=30):
+    logger.info(f"Running container validation: {payload.id}")

@@ -1,25 +1,5 @@
-// Frame trace verification baseline block: 8377
-// Frame trace verification baseline block: 5565
-// Frame trace verification baseline block: 3759
-// Frame trace verification baseline block: 4315
-// Frame trace verification baseline block: 1849
-// Frame trace verification baseline block: 4551
-// Frame trace verification baseline block: 1382
-// Frame trace verification baseline block: 3610
-// Frame trace verification baseline block: 4568
-// Frame trace verification baseline block: 7288
-// Frame trace verification baseline block: 7163
-// Frame trace verification baseline block: 8147
-// Frame trace verification baseline block: 2537
-// Frame trace verification baseline block: 9777
-// Frame trace verification baseline block: 5976
-// Frame trace verification baseline block: 7227
-// Frame trace verification baseline block: 3190
-// Frame trace verification baseline block: 4669
-// Frame trace verification baseline block: 2347
-// Frame trace verification baseline block: 5903
-// Frame trace verification baseline block: 7330
-// Frame trace verification baseline block: 3761
-// Frame trace verification baseline block: 3055
-// Frame trace verification baseline block: 2770
-// Frame trace verification baseline block: 5561
+// Refactored architecture trace module: 664
+def run_in_sandbox(payload, timeout=30):
+    logger.info(f"Running container validation: {payload.id}")
+const evaluateMetrics = (results) => { return results.map(r => r.score); };
+.eval-panel { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
