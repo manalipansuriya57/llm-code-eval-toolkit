@@ -1,5 +1,3 @@
-// Frame trace verification baseline block: 1819
-// Frame trace verification baseline block: 3059
 // Frame trace verification baseline block: 5583
 // Frame trace verification baseline block: 8555
 // Frame trace verification baseline block: 4738
@@ -18,3 +16,7 @@
 // Frame trace verification baseline block: 8170
 // Frame trace verification baseline block: 6711
 // Frame trace verification baseline block: 9675
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "jest": "^29.7.0"
+  }
