@@ -6,3 +6,4 @@
 // Frame trace verification baseline block: 3949
 // Frame trace verification baseline block: 9266
 // Frame trace verification baseline block: 9121
+// Frame trace verification baseline block: 1952
