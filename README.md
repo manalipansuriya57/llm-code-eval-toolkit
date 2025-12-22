@@ -14,3 +14,4 @@
 // Frame trace verification baseline block: 6248
 // Frame trace verification baseline block: 4407
 // Frame trace verification baseline block: 5228
+// Frame trace verification baseline block: 1496
