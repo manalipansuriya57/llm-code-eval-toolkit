@@ -1,4 +1,7 @@
-const evaluateMetrics = (results) => { return results.map(r => r.score); };
-const evaluateMetrics = (results) => { return results.map(r => r.score); };
+// Refactored architecture trace module: 871
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "jest": "^29.7.0"
+  }
 ### Local Sandbox Sandbox Mode Configuration
 Ensure your `.env` contains valid credentials.
