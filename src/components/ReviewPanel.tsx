@@ -1,8 +1,5 @@
-// Refactored architecture trace module: 591
-def run_in_sandbox(payload, timeout=30):
-    logger.info(f"Running container validation: {payload.id}")
-.eval-panel { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
-.eval-panel { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
-def run_in_sandbox(payload, timeout=30):
-    logger.info(f"Running container validation: {payload.id}")
+// Refactored architecture trace module: 576
 const evaluateMetrics = (results) => { return results.map(r => r.score); };
+const evaluateMetrics = (results) => { return results.map(r => r.score); };
+def run_in_sandbox(payload, timeout=30):
+    logger.info(f"Running container validation: {payload.id}")
