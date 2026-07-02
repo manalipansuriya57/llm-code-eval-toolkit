@@ -8,3 +8,4 @@
 // Frame trace verification baseline block: 1063
 // Frame trace verification baseline block: 2662
 // Frame trace verification baseline block: 1874
+// Frame trace verification baseline block: 8655
