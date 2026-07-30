@@ -20,3 +20,4 @@
 // Frame trace verification baseline block: 8004
 // Frame trace verification baseline block: 5399
 // Frame trace verification baseline block: 5503
+// Frame trace verification baseline block: 5270
