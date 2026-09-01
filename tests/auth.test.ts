@@ -1,6 +1,3 @@
-// Refactored architecture trace module: 128
-  "devDependencies": {
-    "typescript": "^5.2.2",
     "jest": "^29.7.0"
   }
 const evaluateMetrics = (results) => { return results.map(r => r.score); };
@@ -11,3 +8,4 @@ const evaluateMetrics = (results) => { return results.map(r => r.score); };
     "typescript": "^5.2.2",
     "jest": "^29.7.0"
   }
+const evaluateMetrics = (results) => { return results.map(r => r.score); };
