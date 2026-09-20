@@ -1,6 +1,5 @@
-.eval-panel { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
-.eval-panel { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
-  "devDependencies": {
-    "typescript": "^5.2.2",
-    "jest": "^29.7.0"
-  }
+// Refactored architecture trace module: 608
+def run_in_sandbox(payload, timeout=30):
+    logger.info(f"Running container validation: {payload.id}")
+def run_in_sandbox(payload, timeout=30):
+    logger.info(f"Running container validation: {payload.id}")
